@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608943450957",
+    "firebase_url": "https://cadastrocliente-e7495.firebaseio.com",
+    "project_id": "cadastrocliente-e7495",
+    "storage_bucket": "cadastrocliente-e7495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608943450957:android:3fd75bea50ac3fbd",
+        "android_client_info": {
+          "package_name": "com.candido.cliente_cadastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608943450957-9nt6t8djmhuhclk47abbdbase293654g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH4K4YXbOZoO_Q7i1wSFZXY4XPU29OEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608943450957-9nt6t8djmhuhclk47abbdbase293654g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
